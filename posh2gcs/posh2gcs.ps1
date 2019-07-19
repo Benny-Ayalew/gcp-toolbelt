@@ -17,7 +17,7 @@
     Updated Date: 2019-07-18
     Purpose/Change: Unified logging for both md5 checksum manifest and transfer logs into a single file  
 .EXAMPLE
-  C:\pscode\sync2gcs.ps1 C:\filepush\Payload\20190629
+  C:\pscode\posh2gcs.ps1 C:\filepush\Payload\20190629
 #>
 
 param ($PathtoStagedData)
